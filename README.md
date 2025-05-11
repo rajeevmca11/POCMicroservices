@@ -26,3 +26,4 @@ Each service has its own `application.yml`. Use IntelliJ or VSCode to run servic
 ```bash
 cd auth-service
 mvn spring-boot:run
+![Architecture](https://github.com/rajeevmca11/POCMicroservices/blob/main/POC_HLD.png)
